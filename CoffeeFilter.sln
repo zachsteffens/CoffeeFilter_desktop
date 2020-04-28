@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeFilter", "dvdrip\CoffeeFilter.csproj", "{A7799044-B3FD-4BD5-B96E-5505A6133349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		testingNoDisc|Any CPU = testingNoDisc|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7799044-B3FD-4BD5-B96E-5505A6133349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7799044-B3FD-4BD5-B96E-5505A6133349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7799044-B3FD-4BD5-B96E-5505A6133349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7799044-B3FD-4BD5-B96E-5505A6133349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7799044-B3FD-4BD5-B96E-5505A6133349}.testingNoDisc|Any CPU.ActiveCfg = testingNoDisc|Any CPU
+		{A7799044-B3FD-4BD5-B96E-5505A6133349}.testingNoDisc|Any CPU.Build.0 = testingNoDisc|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489CBE6F-340C-43DD-A17A-2917A06ABD2F}
+	EndGlobalSection
+EndGlobal
